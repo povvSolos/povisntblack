@@ -1,7 +1,7 @@
 local settings = {
     main = {
         DotEnabled = true, -- dont fucking change this
-        Prediction = 0.22, -- timo u fat nigger dont change the pred
+        Prediction = 0.22, -- change yo 0.156692 if 140+ ping
         Part = "UpperTorso",
         Key = "q",
         Notifications = true,
